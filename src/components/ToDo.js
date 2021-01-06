@@ -21,9 +21,9 @@ const ToDo = ({ text, todos, setTodos, todo }) => {
 
 	return (
 		<>
-			<li className={todo.completed ? "completed" :""}>
+			<li className={todo.completed ? "completed" : ""}>
 				<div className="view">
-					<input type="checkbox" className="toggle" onClick={completeHandler}/>
+					<input type="checkbox" className="toggle" onClick={completeHandler} />
 					<label>{text}</label>
 					<button onClick={deleteHandler} className="destroy"></button>
 				</div>
