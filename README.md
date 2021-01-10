@@ -1,6 +1,10 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# İstanbul Earlybird Front-End Talent Bootcamp 2. Hafta Ödevi: ToDo React App
+# [Live Demo](https://devrimsafakilhan-todo.netlify.app)
+# Screenshot:
+![todo-app](https://user-images.githubusercontent.com/48603501/104128175-11379100-5377-11eb-96da-8996e577db89.png)
+
 
 ## Available Scripts
 
